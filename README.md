@@ -1,3 +1,5 @@
+This project is belong to  https://github.com/shendykurnia, i just edit Elevator.prototype.decide() to answer the given questions on number 1,2,3,4.
+
 Elevator Simulation Problem  
   
 Edit only the function definition of Elevator.prototype.decide() in myelevator.js.  
